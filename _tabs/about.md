@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-I also love cartoons, taking walks and listening to video game music. When it comes to writing I tend to stick with poetry, but sometimes I dabble in action.
+I love cartoons, taking walks and listening to video game music. When it comes to writing I tend to stick with poetry, but sometimes I dabble in action.
