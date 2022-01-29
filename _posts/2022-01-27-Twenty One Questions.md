@@ -1,8 +1,8 @@
 ---
 title: Twenty-One Questions
 date: 2022-01-27 08:30:00 +0800
-categories: [Poetry]
-tags: [poetry]     # TAG names should always be lowercase
+categories: [Short Story]
+tags: [short story]     # TAG names should always be lowercase
 ---
 
 "Hey grandpa, why do we have to throw the fish back?"   
