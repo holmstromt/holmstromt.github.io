@@ -1,8 +1,8 @@
 ---
 title: To The Weary Artists
 date: 2022-01-28 08:30:00 +0800
-categories: [Poetry]
-tags: [poetry]     # TAG names should always be lowercase
+categories: [Letter]
+tags: [letter]     # TAG names should always be lowercase
 ---
 
 Dear Artists,
