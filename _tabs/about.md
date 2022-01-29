@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+I also love cartoons, taking walks and listening to video game music. When it comes to writing I tend to stick with poetry, but sometimes I dabble in action.

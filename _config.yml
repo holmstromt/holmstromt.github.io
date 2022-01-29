@@ -13,40 +13,38 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Chicago
+timezone: America/Denver
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy is King                          # the main title
+title: Taylor's Blog                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: I write poetry   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A place for sharing my writing. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://holmstromt.github.io/'
 
 github:
-  username: github_username             # change to your github username
+  username: holmstromt             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: ScribeShining           # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Taylor Holmstrom
+  email: holmstromtaylor@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/      # change to your twitter homepage
+    - https://github.com/holmstromt       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    # - https://www.facebook.com/taylor.holmstrom
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
@@ -82,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/83326957?s=400&u=36be17d5447afdbc813ceaee9b8108d1abec8c68&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
